@@ -1,0 +1,17 @@
+{
+  "name": "aniviewsample",
+  "version": "1.0.0",
+  "description": "Sample for Debugging",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.3.0"
+  },
+  "dependencies": {
+    "cypress-iframe": "^1.0.1"
+  }
+}
